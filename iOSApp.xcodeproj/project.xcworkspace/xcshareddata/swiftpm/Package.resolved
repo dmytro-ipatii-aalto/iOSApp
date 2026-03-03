@@ -1,0 +1,15 @@
+{
+  "originHash" : "b87581f10c40ff055b2e32fe30116f9dbb7b111eaaae119c585313ffed9308ee",
+  "pins" : [
+    {
+      "identity" : "spmsharedlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dmytro-ipatii-aalto/SPMSharedLibrary",
+      "state" : {
+        "revision" : "effa27d234a8d8374e0059f2f1defbe8ca671634",
+        "version" : "4.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
