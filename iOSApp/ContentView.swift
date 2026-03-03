@@ -25,7 +25,6 @@ struct ContentView: View {
             let platformName = platformInfo.getPlatformName()
             let platformVersion = platformInfo.getPlatformVersion()
             
-            
             greetPlatform = greetPlatform.replacingOccurrences(of: "${platform}", with: platformName)
             greetPlatform = greetPlatform.replacingOccurrences(of: "${version}", with: "\(platformVersion)")
             
